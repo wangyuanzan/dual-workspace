@@ -1,0 +1,4 @@
+interface:
+  display_name: "人机双空间"
+  short_description: "进入项目后适配人的工作台与 AI 工作区，并持续维护主稿和交付材料"
+  default_prompt: "使用 $dual-workspace，结合当前项目用途和已有结构启用或维护人机双空间，并保存适合本项目的协作约定。"
