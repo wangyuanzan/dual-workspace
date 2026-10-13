@@ -1,0 +1,24 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated files and editor state
+*.zip
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private development materials
+/我的工作台/
+/AI工作区/
+/local/
+/test-output/
